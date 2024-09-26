@@ -1,5 +1,5 @@
 [package]
-org = "______"
+org = "MyProject"
 name = "Project"
 version = "0.1.0"
 distribution = "2201.10.0"
