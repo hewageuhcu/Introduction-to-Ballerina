@@ -13,4 +13,7 @@ service/books on new http:Listener(8080){
 resource function get .() returns book[]{
     return books;
 }
+
+//by id
+
 }
