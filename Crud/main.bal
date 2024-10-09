@@ -3,7 +3,7 @@ import ballerina/io;
 
 type book record{|
 int id;
-string title;
+string title; 
 string author;
 |};  
 
