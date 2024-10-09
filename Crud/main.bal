@@ -5,7 +5,7 @@ type book record{|
 int id;
 string title;
 string author;
-|}; 
+|};  
 
 book[] books=[];
 
